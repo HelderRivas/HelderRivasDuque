@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Helder Rivas</h1>
 <h3 align="center">👨‍💻 Developer Web Junior from Tarragona, Spain</h3>
 
-<!-- <p>Soy un desarrollador full stack junior de 21 años, con una gran pasión por aprender y mejorar. Actualmente estoy finalizando mi grado superior en desarrollo web y siempre estoy buscando nuevas oportunidades para aprender nuevas tecnologías por mi cuenta. Mi objetivo es trabajar mientras estudio ingeniería informática en la UOC para seguir mejorando mis habilidades.</p>
+ <p>Soy un desarrollador full stack junior de 20 años, con una gran pasión por aprender y mejorar. Actualmente he finalizando mi grado superior en desarrollo web y siempre estoy buscando nuevas oportunidades para aprender nuevas tecnologías por mi cuenta. Actualmente trabajo como administrador de sistemas informaticos y redes, aunque no descarto el seguir creciendo como desarrollador.</p>
 
 
-- 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
+<!-- - 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
 
 - ⚡ Mi repositorio **[gruberlopez.com](https://gruberlopez.netlify.app)**
 
@@ -18,4 +18,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
- -->
+ --> -->
