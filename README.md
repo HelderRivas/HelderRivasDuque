@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Helder Rivas</h1>
 <h3 align="center">👨‍💻 Developer Web Junior from Tarragona, Spain</h3>
 
- <p>Soy un desarrollador full stack junior de 20 años, con una gran pasión por aprender y mejorar. Actualmente he finalizando mi grado superior en desarrollo web y siempre estoy buscando nuevas oportunidades para aprender nuevas tecnologías por mi cuenta. Actualmente trabajo como administrador de sistemas informaticos y redes, aunque no descarto el seguir creciendo como desarrollador.</p>
+ <p>I am a 20 year old junior full stack developer with a great passion for learning and improving. I am currently finishing my degree in web development and I am always looking for new opportunities to learn new technologies on my own. I am currently working as a computer systems and network administrator, although I don't rule out to continue growing as a developer.</p>
 
-- 🌱 Actualmente estoy aprendiendo y mejorando en **react, nodejs, inglés, Redes y dominios**.
+- 🌱 I am currently learning and improving in **react, nodejs, English, Networking and domains**.
 
 <!-- - 📫 Puedes contactar conmigo a través de mi correo -> **mgruberlopez@gmail.com**
 
